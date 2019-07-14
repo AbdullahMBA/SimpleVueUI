@@ -1,0 +1,15 @@
+      { 
+          "0" :{
+         "skill":"Front-end development" 
+         
+        },
+        "1":{
+            "skill":"Machine learning"
+        },
+        "2":{
+            "skill":"Softeware development"
+        },
+        "3":{
+            "skill":"Game development"
+        }
+    }
