@@ -1,3 +1,6 @@
+DEMO
+https://simplevueapp.firebaseapp.com/
+
 # resumeapp
 
 ## Project setup
